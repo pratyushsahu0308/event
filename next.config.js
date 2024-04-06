@@ -3,12 +3,12 @@ const nextConfig = {
   env: {
     API_URL: "http://localhost:3000/",
     NEXTAUTH_URL: "http://localhost:3000/",
-    DB_LOCAL_URI: "mongodb+srv://cutie:anu@cluster0.dw16w1d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
-    DB_URI: "mongodb+srv://cutie:anu@cluster0.dw16w1d.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    DB_LOCAL_URI: "mongodb+srv://pranjalkharche6:pranjal@pranjal.rrkznaj.mongodb.net/?retryWrites=true&w=majority&appName=pranjal",
+    DB_URI: "mongodb+srv://pranjalkharche6:pranjal@pranjal.rrkznaj.mongodb.net/?retryWrites=true&w=majority&appName=pranjal"
 
     STRIPE_WEBHOOK_SECRET: "whsec_z4wgPN6bIbx6vQSyQG7CE1UnsmIRWkB8",
 
-    STRIPE_SECRET_KEY: "sk_test_51OZCuASHas2oKgk6pp9WJprrrtgZ1WQpOHZqZfPfDYnihjza3r4CP8ADmzS0qatLk3sr8mbY5FkSXc3bgio45LNX00C6dpp0kM",
+    STRIPE_SECRET_KEY: "sk_test_51OZCuASHNX00C6dpp0kM",
 
     CLOUDINARY_CLOUD_NAME: "dt0xgxohw",
     CLOUDINARY_API_KEY: "814853432562843",
